@@ -77,9 +77,3 @@
 - Использованию template-элементов
 - Сборке проекта при помощи Webpack
 
-## Автор
-
-**Данила Легкобытов**
-
-- e-mail: [legkobytov-danila@yandex.ru](mailto:legkobytov-danila@yandex.ru)
-- Telegram: [@danila_legkobytov](https://t.me/danila_legkobytov)
